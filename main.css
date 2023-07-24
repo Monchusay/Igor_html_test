@@ -1,0 +1,14 @@
+.box {
+    background-color: aqua;
+}
+.container {
+    margin: 0 auto;
+    border: 3px solid red;
+    text-align: center;
+}
+h1 {
+    font-size: 50px;
+}
+p {
+    font-style: italic;
+}
